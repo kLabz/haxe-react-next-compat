@@ -52,7 +52,7 @@ extern class ReactComponentOf<TProps, TState>
 	/**
 		https://facebook.github.io/react/docs/react-component.html#render
 	**/
-	function render():ReactElement;
+	function render():ReactFragment;
 
 	/**
 		https://facebook.github.io/react/docs/react-component.html#componentwillmount
