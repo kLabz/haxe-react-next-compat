@@ -1,0 +1,14 @@
+{
+  "name": "react-next-compat",
+  "description": "Compatibility types to use react instead of react-next",
+  "version": "0.1.0",
+  "releasenote": "Initial release.",
+  "url": "https://github.com/kLabz/haxe-react-next-compat",
+  "license": "MIT",
+  "tags": [],
+  "classPath": "src",
+  "contributors": [
+    "klabz"
+  ]
+}
+

@@ -1,0 +1,3 @@
+-cp src
+-js .build/test.js
+--macro include('my.pack', true)
